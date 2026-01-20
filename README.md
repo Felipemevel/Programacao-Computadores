@@ -36,9 +36,9 @@ Cada lista representa um degrau na complexidade lógica e sintática. Abaixo, o 
 
 ---
 
-## 🛠Tecnologias & Ferramentas
+## Tecnologias & Ferramentas
 
-* **Linguagem:** Python 3.x
+* **Linguagem:** Python 3.12+
 * **IDE:** Visual Studio Code (VS Code)
 * **Formatação:** Black Formatter (PEP 8 Compliance)
 * **Ambiente:** Linux (Fedora/Debian based)
