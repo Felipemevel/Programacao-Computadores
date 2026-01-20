@@ -3,7 +3,7 @@
 ![Python](https://img.shields.io/badge/Python-3.12+-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![IFRN](https://img.shields.io/badge/Instituicao-IFRN-32CD32?style=for-the-badge&logo=readthedocs&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Platform-Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge&logo=git&logoColor=white)
+![Status](https://img.shields.io/badge/Status-Andamento-brightyellow?style=for-the-badge&logo=git&logoColor=white)
 
 > **Portfólio acadêmico de evolução na disciplina de Programação de Computadores | TADS - IFRN**
 
