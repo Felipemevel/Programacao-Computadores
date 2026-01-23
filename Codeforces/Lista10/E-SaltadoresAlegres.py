@@ -27,7 +27,7 @@ def saltadores_alegres(lista: list):
     if len(valores_encontrados) == n - 1:
         resposta.append("Alegre")
     else:
-        resposta.append("Não alegre")
+        resposta.append("Nao alegre")
         
 resposta = []
 
